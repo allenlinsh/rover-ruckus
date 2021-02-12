@@ -14,5 +14,6 @@ Brian Davis\
 Donna Frost
 
 # Gallery
+## Robot Design
 <img src="/img/first-sketch.png" width="500">\
 <img src="/img/first-bot.jpg" width="500">
