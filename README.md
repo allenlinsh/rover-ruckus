@@ -9,6 +9,10 @@ Allen Lin
 ## Co-Captain
 Tim Zhou
 
+## Mentor
+Brian Davis\
+Donna Frost
+
 # Gallery
 <img src="/img/first-sketch.png" width="500">\
 <img src="/img/first-bot.jpg" width="500">
